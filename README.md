@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Barthwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+[![An image of @pranavbarthwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavbarthwal)](https://holopin.io/@pranavbarthwal)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbarthwal&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbarthwal" /> </p>
 
 - 🌱 I’m currently learning **React.js**
