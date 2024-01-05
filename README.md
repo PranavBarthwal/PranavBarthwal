@@ -32,11 +32,11 @@
   <br>
 - 💬 Ask me anything about **Frontend Web Development**
     <br>
-- 📫 How to reach me **pbarthwal90@gmail.com**
+- 📫 How to reach me : **pbarthwal90@gmail.com**
     <br>
-- 😄 My Linktree: https://linktr.ee/PranavBarthwal
+- 😄 My Linktree : https://linktr.ee/PranavBarthwal
     <br>
-- ⚡ Fun fact: I like to click pictures!
+- ⚡ Fun fact : I like to click pictures!
 
 </div>
 
