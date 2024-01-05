@@ -19,23 +19,43 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=ayu_mirage"/><br />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbarthwal&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbarthwal" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranavbarthwal&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbarthwal" /> </p>
+
+---
 
 <div align="center">
-- 🌱 I’m currently learning **React.js**
+  <h3 align="center">About Me</h3>
+- 🌱 I’m currently learning *React.js* 
+  <br>
 - 💬 Ask me anything about Frontend
+    <br>
 - 📫 How to reach me **pbarthwal90@gmail.com**
+    <br>
 - 😄 My Linktree: https://linktr.ee/PranavBarthwal
+    <br>
 - ⚡ Fun fact: I like to click pictures!
 
+---
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="left">
-<a href="https://instagram.com/pranavbarthwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranavbarthwal_" height="30" width="40" /></a>
+
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/pbarthwal90/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="mailto:pbarthwal90@gmail.com">
+    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="center">Languages and Tools</h3>
 <p align="left"> 
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -53,6 +73,10 @@
 <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp; </p>
 <br> 
+
+---
+
+<h3 align="center">Profile Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">   
 
 </div>
