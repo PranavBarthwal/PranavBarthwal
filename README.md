@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=ayu_mirage"/><br />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/><br />
 </div>
 <br>
 
