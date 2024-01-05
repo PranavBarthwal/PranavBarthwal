@@ -15,8 +15,13 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=ayu_mirage"/><br />
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavbarthwal&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbarthwal" /> </p>
 
+<div align="center">
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me anything about Frontend
 - 📫 How to reach me **pbarthwal90@gmail.com**
@@ -50,5 +55,5 @@
 <br> 
 <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">   
 
-
+</div>
 
