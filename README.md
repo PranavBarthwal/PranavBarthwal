@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Barthwal</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pranav Barthwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <div id="header" align="center">
@@ -18,16 +18,19 @@
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=ayu_mirage"/><br />
 </div>
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pranavbarthwal&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbarthwal" /> </p>
 
 ---
 
 <div align="center">
-  <h3 align="center">About Me</h3>
-- 🌱 I’m currently learning *React.js* 
+  <h2 align="center"> About Me</h2>
+<div align="left">
+
+- 🌱 I’m currently learning **React.js** 
   <br>
-- 💬 Ask me anything about Frontend
+- 💬 Ask me anything about **Frontend Web Development**
     <br>
 - 📫 How to reach me **pbarthwal90@gmail.com**
     <br>
@@ -35,9 +38,12 @@
     <br>
 - ⚡ Fun fact: I like to click pictures!
 
+</div>
+
+
 ---
 
-<h3 align="center">Connect with Me</h3>
+<h2 align="center">Connect with Me</h2>
 <p align="left">
 
   <div id="badges" align="center">
@@ -55,7 +61,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h2 align="center">Languages and Tools</h2>
 <p align="left"> 
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -76,7 +82,7 @@
 
 ---
 
-<h3 align="center">Profile Stats</h3>
+<h2 align="center">Profile Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">   
 
 </div>
