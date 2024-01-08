@@ -89,7 +89,10 @@
 <h2 align="center">Profile Stats</h2>
 <img align="left", src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight">   
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false)
+
+<br/>
 
 
 
