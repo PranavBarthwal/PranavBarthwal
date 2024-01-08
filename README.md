@@ -16,11 +16,15 @@
 </div>
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"/><br />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=tokyonight"/><br />
 </div>
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pranavbarthwal&label=Profile%20views&color=0e75b6&style=flat" alt="pranavbarthwal" /> </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PranavBarthwal/count.svg" />
+</p>
 
 ---
 
@@ -83,7 +87,11 @@
 ---
 
 <h2 align="center">Profile Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">   
+<img align="left", src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight">   
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false)<br/>
+
+
 
 </div>
 
