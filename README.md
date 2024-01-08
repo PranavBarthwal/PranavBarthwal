@@ -88,11 +88,13 @@
 
 <h2 align="center">Profile Stats</h2>
 
-<div style="display: flex;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false)
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
 </div>
+
+
 
 
 </div>
