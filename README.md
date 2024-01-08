@@ -91,7 +91,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="365">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="368">
 </div>
 
 
