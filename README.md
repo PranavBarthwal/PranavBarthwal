@@ -93,6 +93,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="370">
 </div>
 
+[![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
