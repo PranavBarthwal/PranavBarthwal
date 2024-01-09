@@ -32,7 +32,7 @@
   <h2 align="center"> About Me</h2>
 <div align="left">
 
-- 🌱 I’m currently learning **React.js** 
+- 🌱 I’m currently learning **Backend Web Development** 
   <br>
 - 💬 Ask me anything about **Frontend Web Development**
     <br>
