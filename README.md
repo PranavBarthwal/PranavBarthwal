@@ -38,9 +38,9 @@
     <br>
 - 📫 How to reach me : <a href="mailto:pbarthwal90@gmail.com">![Static Badge](https://img.shields.io/badge/pbarthwal90%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Apbarthwal90%40gmail.com)</a> <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/"> ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)
     <br>
-- 😄 My Linktree : ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)
+- 😄 My Linktree : <a href="https://linktr.ee/PranavBarthwal">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
     <br>
-- ⚡ Fun fact : I like to click pictures, check it out on ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-purple?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpranavbarthwal%2F)
+- ⚡ Fun fact : I like to click pictures, check it out on <a href="https://www.instagram.com/pranavbarthwal_/">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-purple?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpranavbarthwal%2F)</a>
 </div>
 
 
