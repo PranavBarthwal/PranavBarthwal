@@ -36,7 +36,7 @@
   <br>
 - 💬 Ask me anything about **Frontend Web Development**
     <br>
-- 📫 How to reach me : ![Static Badge](https://img.shields.io/badge/pbarthwal90%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Apbarthwal90%40gmail.com) ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)
+- 📫 How to reach me : <a href="mailto:pbarthwal90@gmail.com">![Static Badge](https://img.shields.io/badge/pbarthwal90%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Apbarthwal90%40gmail.com)</a> <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/"> ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)
     <br>
 - 😄 My Linktree : ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)
     <br>
