@@ -93,7 +93,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="370">
+    <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight">
 </div>
 
 [![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
