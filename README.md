@@ -95,7 +95,7 @@
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350">
-    <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight">
+  <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=tokyonight&hide_border=false&stroke=0000"/>
 </div>
 
 [![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
