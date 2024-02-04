@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pranav Barthwal</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pranav Barthwal          <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" alt="c" width="40" height="40"></h1>
 <h3 align="center">A passionate frontend developer from India </h3>
 
 
