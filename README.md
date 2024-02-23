@@ -86,8 +86,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <img style="border-radius : 10px"  src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" title="GitHub" alt="GitHub" width="40" height="40"/>
-<img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+<img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/canva/canva-original.svg" title="Canva"  alt="Canva" width="40" height="40"/>&nbsp;
 </p>
 <br> 
 
