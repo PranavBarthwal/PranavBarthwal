@@ -81,6 +81,7 @@
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="40" height="40"/> </a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" alt="react-router-dom" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>
+<img src="https://yt3.googleusercontent.com/CvJpsnxHc35Jodcjah3jFU0L-YFUjoehPbLTL3KmYKnFMPPw19JI5leQsy60j-d9xXBPFj6I=s900-c-k-c0x00ffffff-no-rj" title="Redux" alt="Appwrite " width="40" height="40"/>
 <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
