@@ -105,7 +105,7 @@
   <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
 </div>
 
-[![Pranav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
