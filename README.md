@@ -78,6 +78,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS" /> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
 <img style="border-radius : 10px"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>
+<img style="border-radius : 10px"  src="https://tsh.io/wp-content/uploads/fly-images/32664/framer-motion-logo-1-312x211.png" title="Framer Motion" alt="Framer Motion" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js"  alt="react" width="40" height="40"/> </a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title="Vite" alt="vite" width="40" height="40"/> </a>
