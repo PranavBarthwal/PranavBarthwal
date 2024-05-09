@@ -26,7 +26,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 </div>
 
-
+[![An image of @pranavbarthwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavbarthwal)](https://holopin.io/@pranavbarthwal)
 
 ---
 
@@ -82,6 +82,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 
 
+<img src="istockphoto-1136904132-612x612-removebg-preview.png" alt="isolated" width="2000px"/>
 
 
 
