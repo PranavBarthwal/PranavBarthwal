@@ -75,6 +75,10 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PranavBarthwal/count.svg" />
+</p>
 
 </div>
 
