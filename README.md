@@ -17,9 +17,7 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/><br />
-</div>
+
 <br>
 
 
@@ -102,6 +100,9 @@
 
 <h2 align="center">Profile Stats</h2>
 
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/><br />
+</div>
 
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=algolia" alt="GitHub Stats" width="350">
