@@ -28,7 +28,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 [![An image of @pranavbarthwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavbarthwal)](https://holopin.io/@pranavbarthwal)
 
----
+<br> 
 
 <h2 align="center">Languages, Tools & Technologies</h2>
 <p align="center">
@@ -60,7 +60,6 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 </p>
 <br> 
 
----
 
 <h2 align="center">Profile Stats</h2>
 
