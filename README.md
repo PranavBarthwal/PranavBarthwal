@@ -30,9 +30,8 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
-<p align="left"> 
-
+<h2 align="center">Languages, Tools & Technologies</h2>
+<p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"   alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" title="C++" /> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python" /> </a>
@@ -45,6 +44,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js"  alt="react" width="40" height="40"/> </a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title="Vite" alt="vite" width="40" height="40"/> </a>
+<br>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" title="React-Router" alt="react-router-dom" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux-Toolkit" alt="Redux " width="40" height="40"/>
 <img src="https://yt3.googleusercontent.com/CvJpsnxHc35Jodcjah3jFU0L-YFUjoehPbLTL3KmYKnFMPPw19JI5leQsy60j-d9xXBPFj6I=s900-c-k-c0x00ffffff-no-rj" title="Appwrite" alt="Appwrite " width="40" height="40"/>
