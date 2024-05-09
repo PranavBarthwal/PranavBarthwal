@@ -1,36 +1,16 @@
-<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pranav Barthwal          <img src="https://github.githubassets.com/assets/octocat-829c0067cec9.png" alt="c" width="35" height="35"></h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/PranavBarthwal/PranavBarthwal/assets/110532770/d5575b4e-36f2-4521-90cf-12e4b9280ef3)
 
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100"/>
-</div>
-
-
-
-
-[![An image of @pranavbarthwal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavbarthwal)](https://holopin.io/@pranavbarthwal)
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
-</div>
-
-
-<br>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/PranavBarthwal/count.svg" />
-</p>
 
 ---
 
 <div align="center">
-  <h2 align="center"> About Me</h2>
+  <h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pranav</h1>
 <div align="left">
+
+<p>
+Welcome to my favourite place! I'm a sophomore whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development and open-source. Currently, I'm working a DevRel Engineering Scout at DevRelSquad, where our mission is to bridge the gap between developers and the world of SaaS and PaaS products. Moreover, I proudly serve as a Community Lead for the nameSpace community, largest community of tech enthusiasts within my university. 📈 <br>
+Fuelled by an insatiable curiosity, I thrive on continuous exploration and upskilling, always seeking to push the boundaries of my knowledge. Whether it's crafting elegant code, advocating for open-source principles, or fostering a vibrant tech community, I find my passion deeply rooted in the realms of web development, FOSS, and all things tech. When I'm not immersed in lines of code or engaged in tech discussions, you'll likely find me sweating it out at the gym, channeling that same energy into physical pursuits.🚀
+</p>
 
 - 🌱 I’m currently learning **Backend Web Development** 
   <br>
@@ -43,26 +23,10 @@
 - 😄 My Linktree : <a href="https://linktr.ee/PranavBarthwal">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
     <br>
 - ⚡ Fun fact : I like to click pictures, check it out on <a href="https://www.instagram.com/pranavbarthwal_/">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-purple?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpranavbarthwal%2F)</a>
+- 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 </div>
 
 
----
-
-<h2 align="center">Connect with Me</h2>
-<p align="left">
-
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/pbarthwal90/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="mailto:pbarthwal90@gmail.com">
-    <img src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-</p>
 
 ---
 
@@ -109,9 +73,21 @@
   <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
 </div>
 
+
+
+
+
+
+
+
+<p align="left">
+<a href="https://creativecommons.org/licenses/by-nc/4.0"><img align="right" style="padding-top: 7px;" src="https://licensebuttons.net/l/by-nc/3.0/88x31.png" width="72" /></a>&nbsp;<img align="right" style="padding-top: 7px;" src="https://user-images.githubusercontent.com/48355572/213894405-3eca405e-0c4b-41a6-aa8f-97cb62ae7176.png" width="70" />
+<img src="https://user-images.githubusercontent.com/48355572/234945747-bf397684-9a28-4601-b81a-c09deff53a49.gif" width="18px" height="14px">
+Regarding any issues, feel free to drop a mail at — <a href="mailto:pbarthwal90@gmail.com"><b>pbarthwal90@gmail.com</b></a>
+</p>
