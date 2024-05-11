@@ -62,12 +62,13 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 <h2 align="center">Profile Stats</h2>
 
+<img width='500' alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" width='500'  />
+
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/><br />
 </div>
-
-<img alt= "stats card"  width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
-<img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" width="700" />
 
 <!-- <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=algolia" alt="GitHub Stats" width="350">
