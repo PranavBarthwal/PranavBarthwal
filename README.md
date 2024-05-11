@@ -66,10 +66,13 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/><br />
 </div>
 
-<div style="display: flex;">
+<img alt= "stats card"  width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" width="700" />
+
+<!-- <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=algolia" alt="GitHub Stats" width="350">
   <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
-</div>
+</div> -->
 
 [![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
