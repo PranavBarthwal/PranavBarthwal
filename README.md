@@ -62,6 +62,18 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 <h2 align="center">Profile Stats</h2>
 
+
+<a href="https://github.com/PranavBarthwal">
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavBarthwal&theme=algolia" alt="Sanjay K V github stats" />
+  <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=true&stroke=0000" alt="Sanjay K V github stats" />
+   <img height="191em" src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
+</a>
+  <br>
+
+  <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
+     
+<!--
 <img width='500' alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" title="GitHub Stats" alt="GitHub Stats" width='500'  />
@@ -69,13 +81,12 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/><br />
 </div>
+-->
 
 <!-- <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&show_icons=true&theme=algolia" alt="GitHub Stats" width="350">
   <img alt= "stats card"  width="375" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
 </div> -->
-
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center"> 
