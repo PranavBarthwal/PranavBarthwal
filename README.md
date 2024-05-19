@@ -65,9 +65,9 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 <a href="https://github.com/PranavBarthwal">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/>
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavBarthwal&theme=algolia" alt="Sanjay K V github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavBarthwal&theme=algolia" />
    <img height="191em" src="https://github-readme-stats.vercel.app/api?username=PranavBarthwal&hide_border=true&show=reviews,prs_merged,prs_merged_percentage&theme=algolia" />
-    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=true&stroke=0000" alt="Sanjay K V github stats" />
+    <img height="191em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=true&stroke=0000"  />
 </a>
   <br>
 
