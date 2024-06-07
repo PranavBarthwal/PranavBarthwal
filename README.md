@@ -8,7 +8,7 @@
 <div align="left">
 
 <p>
-<!-- Welcome to my favourite place! I'm a sophomore whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development and open-source. Currently, I'm working a DevRel Engineering Scout at DevRelSquad, where our mission is to bridge the gap between developers and the world of SaaS and PaaS products. Moreover, I proudly serve as a Community Lead for the nameSpace community, largest community of tech enthusiasts within my university. 📈 <br> -->
+Welcome to my favourite place! I'm a sophomore whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development and open-source. Currently, I'm working a DevRel Engineering Scout at DevRelSquad, where our mission is to bridge the gap between developers and the world of SaaS and PaaS products. Moreover, I proudly serve as a Community Lead for the nameSpace community, largest community of tech enthusiasts within my university. 📈 <br>
 Fuelled by an insatiable curiosity, I thrive on continuous exploration and upskilling, always seeking to push the boundaries of my knowledge. Whether it's crafting elegant code, advocating for open-source principles, or fostering a vibrant tech community, I find my passion deeply rooted in the realms of web development, FOSS, and all things tech. When I'm not immersed in lines of code or engaged in tech discussions, you'll likely find me sweating it out at the gym, channeling that same energy into physical pursuits.🚀
 </p>
 
