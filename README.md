@@ -49,7 +49,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <img src="https://yt3.googleusercontent.com/CvJpsnxHc35Jodcjah3jFU0L-YFUjoehPbLTL3KmYKnFMPPw19JI5leQsy60j-d9xXBPFj6I=s900-c-k-c0x00ffffff-no-rj" title="Appwrite" alt="Appwrite " width="40" height="40"/>
 <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
-<img src="https://miro.medium.com/v2/resize:fit:1000/0*8v1xNP18Ovj3wg6K.gif" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZYtHv2OLXmthRPbkmENZRXuqBVDwlsrZ1A&s" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 <img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W_400x400.jpg" title="Mongoose ODM" alt="Mongoose ODM"  height="40"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"  alt="git" width="40" height="40"/> </a>
