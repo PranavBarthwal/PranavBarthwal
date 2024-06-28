@@ -8,15 +8,15 @@
 <div align="left">
 
 <p>
-Welcome to my favourite place! I'm a sophomore whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development and open-source. Currently, I'm working a DevRel Engineering Scout at DevRelSquad, where our mission is to bridge the gap between developers and the world of SaaS and PaaS products. Moreover, I proudly serve as a President | Community Lead for The nameSpace community, largest community of tech enthusiasts within my university. 📈 <br>
+Welcome to my favourite place! I'm a sophomore whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development and open-source. Currently, I'm working a DevRel Engineering Scout at DevRelSquad, where our mission is to bridge the gap between developers and the world of SaaS and PaaS products. Moreover, I proudly serve as a President at The nameSpace community, largest community of tech enthusiasts within my university. 📈 <br>
 Fuelled by an insatiable curiosity, I thrive on continuous exploration and upskilling, always seeking to push the boundaries of my knowledge. Whether it's crafting elegant code, advocating for open-source principles, or fostering a vibrant tech community, I find my passion deeply rooted in the realms of web development, FOSS, and all things tech. When I'm not immersed in lines of code or engaged in tech discussions, you'll likely find me sweating it out at the gym, channeling that same energy into physical pursuits.🚀
 </p>
 
-- 🌱 I’m currently learning **Backend Web Development** 
+- 🌱 I’m currently learning **Next.js** 
   <br>
-- 🤝 I’m open to collaborate in **Open Source Project**
+- 🤝 I’m open to collaborate in **Open Source Projects**
   <br>
-- 💬 Ask me anything about **Frontend Web Development**
+- 💬 Ask me anything about **Web Development**
     <br>
 - 📫 How to reach me : <a href="mailto:pbarthwal90@gmail.com">![Static Badge](https://img.shields.io/badge/pbarthwal90%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Apbarthwal90%40gmail.com)</a> <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/"> ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)</a> <a href="https://twitter.com/pranavbarthwal_">![Static Badge](https://img.shields.io/badge/Twitter-black?logo=X&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2Fpranavbarthwal_)</a><br>
 - 😄 My Linktree : <a href="https://linktr.ee/PranavBarthwal">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
@@ -48,6 +48,8 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux-Toolkit" alt="Redux " width="40" height="40"/>
 <img src="https://yt3.googleusercontent.com/CvJpsnxHc35Jodcjah3jFU0L-YFUjoehPbLTL3KmYKnFMPPw19JI5leQsy60j-d9xXBPFj6I=s900-c-k-c0x00ffffff-no-rj" title="Appwrite" alt="Appwrite " width="40" height="40"/>
 <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 <img src="https://pbs.twimg.com/profile_images/946432748276740096/0TXzZU7W_400x400.jpg" title="Mongoose ODM" alt="Mongoose ODM"  height="40"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"  alt="git" width="40" height="40"/> </a>
