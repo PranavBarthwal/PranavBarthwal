@@ -14,7 +14,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 - 🌱 I’m currently learning **Angular.js** 
   <br>
-- 🤝 I’m working on a **SCRUM Project Management Tool for Agile Teams**
+- 🤝 I’m working on a **Scrum Project Management Tool for Agile Teams**
   <br>
 - 💬 Ask me anything about **Web Development**
     <br>
