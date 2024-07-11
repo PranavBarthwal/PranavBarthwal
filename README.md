@@ -12,7 +12,7 @@ Welcome to my favourite place! I'm a junior whose academic pursuits align with A
 Fuelled by an insatiable curiosity, I thrive on continuous exploration and upskilling, always seeking to push the boundaries of my knowledge. Whether it's crafting elegant code, advocating for open-source principles, or fostering a vibrant tech community, I find my passion deeply rooted in the realms of web development, FOSS, and all things tech. When I'm not immersed in lines of code or engaged in tech discussions, you'll likely find me sweating it out at the gym, channeling that same energy into physical pursuits.🚀
 </p>
 
-- 🌱 I’m currently learning **Angular.js** 
+- 🌱 I’m currently working as a **🥑DevRel @Decentraclasses**
   <br>
 - 🤝 I’m working on a **Scrum Project Management Tool for Agile Teams**
   <br>
