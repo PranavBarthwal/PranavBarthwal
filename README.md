@@ -54,6 +54,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"  alt="git" width="40" height="40"/> </a>
 <img style="border-radius : 10px"  src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img style="border-radius : 10px"  src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" title="Docker" alt="Docker" width="40" height="40"/>
 <img style="border-radius : 10px"  src="https://github.gallerycdn.vsassets.io/extensions/github/copilotvs/1.156.0.0/1707520638919/Microsoft.VisualStudio.Services.Icons.Default" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>
 <img style="border-radius : 10px"  src="https://github.gallerycdn.vsassets.io/extensions/github/codespaces/1.16.10/1707254009255/Microsoft.VisualStudio.Services.Icons.Default" title="GitHub Codespaces" alt="GitHub Codespaces" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code"  alt="Visual Studio Code" width="40" height="40"/>
