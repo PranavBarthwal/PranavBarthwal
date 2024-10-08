@@ -8,7 +8,7 @@
 <div align="left">
 
 <p>
-Welcome to my favourite place! I'm a junior whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development, community building and open-source. Currently, I'm working as a Fullstack Dev Intern at C-DOT and DevRel Intern at Decentraclasses, where we redefine education through decentralization, turn learning into a valuable asset. Moreover, I proudly serve as a President at The nameSpace community, largest community of tech enthusiasts within my university. 📈 <br>
+Welcome to my favourite place! I'm a junior whose academic pursuits align with Artificial Intelligence & Data Science, but finds himself drawn towards web development, community building and open-source. Currently, I'm working as a DevRel at Decentraclasses, where we redefine education through decentralization, turn learning into a valuable asset. Moreover, I proudly serve as a President at The nameSpace community, largest community of tech enthusiasts within my university. 📈 <br>
 Fuelled by an insatiable curiosity, I thrive on continuous exploration and upskilling, always seeking to push the boundaries of my knowledge. Whether it's crafting elegant code, advocating for open-source principles, or fostering a vibrant tech community, I find my passion deeply rooted in the realms of web development, FOSS, and all things tech. When I'm not immersed in lines of code or engaged in tech discussions, you'll likely find me sweating it out at the gym, channeling that same energy into physical pursuits.🚀
 </p>
 
