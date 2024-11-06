@@ -19,7 +19,8 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 - 💬 Ask me anything about **Web Development, Communities, DevRel**
     <br>
 - 📫 How to reach me : <a href="mailto:pbarthwal90@gmail.com">![Static Badge](https://img.shields.io/badge/pbarthwal90%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Apbarthwal90%40gmail.com)</a> <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/"> ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)</a> <a href="https://twitter.com/pranavbarthwal_">![Static Badge](https://img.shields.io/badge/Twitter-black?logo=X&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2Fpranavbarthwal_)</a><br>
-- 😄 My Portfolio Website: <a href="https://linktr.ee/PranavBarthwal">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-brightgreen?logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
+- 😄 My Portfolio Website: [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-Green?style=flat&logo=web)](https://www.pranavbarthwal.tech/)
+logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
     <br>
 - ⚡ Fun fact : I like to click pictures, check it out on <a href="https://www.instagram.com/pranavbarthwal_/">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-purple?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpranavbarthwal%2F)</a>
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
@@ -44,7 +45,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React.js"  alt="react" width="40" height="40"/> </a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" title="Vite" alt="vite" width="40" height="40"/> </a>
 <br>
-<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" title="React-Router" alt="react-router-dom" width="40" height="40"/> </a>
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:572/1*Mo-09Vngs5t_oWGqHZuPtg.png" title="React-Router" alt="react-router-dom" width="40" height="40"/> </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux-Toolkit" alt="Redux " width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/25003669?s=280&v=4" title="Appwrite" alt="Appwrite " width="40" height="40"/>
 <img src="https://github.com/pradeeptosarkar/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
