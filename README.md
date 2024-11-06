@@ -20,7 +20,6 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
     <br>
 - 📫 How to reach me : <a href="mailto:pbarthwal90@gmail.com">![Static Badge](https://img.shields.io/badge/pbarthwal90%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Apbarthwal90%40gmail.com)</a> <a href="https://www.linkedin.com/in/pranav-barthwal-b1a3631ba/"> ![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-blue?logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Fpranav-barthwal-b1a3631ba%2F)</a> <a href="https://twitter.com/pranavbarthwal_">![Static Badge](https://img.shields.io/badge/Twitter-black?logo=X&labelColor=black&color=black&link=https%3A%2F%2Ftwitter.com%2Fpranavbarthwal_)</a><br>
 - 😄 My Portfolio Website: [![Portfolio Website](https://img.shields.io/badge/Portfolio%20Website-Green?style=flat&logo=web)](https://www.pranavbarthwal.tech/)
-logo=linktree&logoColor=white&link=https%3A%2F%2Flinktr.ee%2FPranavBarthwal)</a>
     <br>
 - ⚡ Fun fact : I like to click pictures, check it out on <a href="https://www.instagram.com/pranavbarthwal_/">![Static Badge](https://img.shields.io/badge/Pranav%20Barthwal-purple?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fpranavbarthwal%2F)</a>
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
