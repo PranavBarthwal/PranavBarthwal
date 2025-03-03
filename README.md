@@ -75,11 +75,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
   <br>
 
   <img width="808" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavBarthwal&bg_color=050f2c&color=00aeff&line=00aeff&point=ffffff&area=true&hide_border=true"/>
-
-<img src="https://stats.quine.sh/PranavBarthwal/github?theme=dark" width="400">
-<img src="https://stats.quine.sh/PranavBarthwal/dependencies?theme=dark" width="400"><br>
-<img src="https://stats.quine.sh/PranavBarthwal/topics-over-time?theme=dark" width="400">
-<img src="https://stats.quine.sh/PranavBarthwal/languages-over-time?theme=dark" width="400">
+  
 <br/><br/><br/>
 <!--
 <img width='500' alt= "stats card" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBarthwal&theme=algolia&hide_border=false&stroke=0000"/>
