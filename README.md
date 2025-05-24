@@ -1,3 +1,4 @@
+<!--
 ![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/PranavBarthwal/PranavBarthwal/assets/110532770/d5575b4e-36f2-4521-90cf-12e4b9280ef3)
 
 
@@ -65,6 +66,7 @@ Fuelled by an insatiable curiosity, I thrive on continuous exploration and upski
 
 <h2 align="center">Profile Stats</h2>
 
+-->
 
 <a href="https://github.com/PranavBarthwal">
    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavBarthwal&theme=algolia"/>
