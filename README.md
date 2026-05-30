@@ -1,8 +1,8 @@
+
+
 <img width="1400" height="350" alt="1779638614308" src="https://github.com/user-attachments/assets/4752c7c2-742a-4924-9248-b9217bb99191" />
+
 <!--
-![Black Gradient Minimalistic Future Technology YouTube Banner](https://github.com/PranavBarthwal/PranavBarthwal/assets/110532770/d5575b4e-36f2-4521-90cf-12e4b9280ef3)
-
-
 ---
 
 <div align="center">
